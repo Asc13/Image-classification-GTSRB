@@ -1,0 +1,6 @@
+118 - Fourier1 - model1 - 0.973
+150 - MotionBlur1 - model0 - 0.952
+77 - Deconvolution - model2 - 0.958
+82 - EdgeDet1 - model1 - 0.386
+138 - GaussianBlur - model0 - 0.977
+158 - Original - model2 - 0.983

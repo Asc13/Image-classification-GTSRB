@@ -1,0 +1,3 @@
+118 - Fourier1 - model1 - 0.9734758734703064
+150 - MotionBlur1 - model0 - 0.9522565603256226
+158 - Original - model2 - 0.9834520816802979

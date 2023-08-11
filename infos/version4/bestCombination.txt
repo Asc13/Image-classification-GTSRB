@@ -1,0 +1,6 @@
+118 - Fourier1 - model1 - 0.9734758734703064
+150 - MotionBlur1 - model0 - 0.9522565603256226
+141 - Harris - model0 - 0.9356294274330139
+82 - EdgeDet1 - model1 - 0.38606491684913635
+138 - GaussianBlur - model0 - 0.9772763252258301
+158 - Original - model2 - 0.9834520816802979
